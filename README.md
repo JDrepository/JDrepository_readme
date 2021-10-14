@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, sou Kiko Dalmolin</h1>
-<h3 align="center">Eu sou apaixonado pela tecnologia, ciência e programas</h3>
+<h3 align="center">Eu sou apaixonado por tecnologia, ciência e programação</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=git1hub2&label=Profile%20views&color=0e75b6&style=flat" alt="git1hub2"
 
