@@ -12,18 +12,45 @@
 
 </a> </p><h3 align="left">👉 Language and Tools ✔</h3>
 
-<p><img align="left"><a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="120" height="50"
-/> </a><a hrefa="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60" height="40"
-/> </a><a href="https://www.w3schools.com/cs/="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="60" height="40"
+<body>
+  <div class="rocket">
+    <div class="rocket-body">
+      <div class="body"></div>
+      <div class="fin fin-left"></div>
+      <div class="fin fin-right"></div>
+      <div class="window"></div>
+    </div>
+    <div class="exhaust-flame"></div>
+    <ul class="exhaust-fumes">
+      <li>HTML / CSS / JavaScript</li>
+      <li>JavaScript frameworks: AngularJS, Ember and ReactJS</li>
+      <li>JavaScript library: jQuery</li>
+      <li>Version control system</li>
+      <li>Cross-browser</li>
+      <li>Device testing (responsive design techniques to change site layout & design)</li>
+      <li>Web performance optimization (WPO)</li>
+      <li>Search engine optimization (SEO)</li>
+      <li></li>
+    </ul>
+    <ul class="star">
+      <li></li>
+      <li></li>
+      <li></li>
+      <li></li>
+      <li></li>
+      <li></li>
+      <li></li>
+    </ul>
+  </div>
+</body>
+
+
+<p><img align="center"><a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="110" height="50"
 /> </a><a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="60" height="40"
 /> </a><a href="https://cloud.google.com" target=" _blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"
 /> </a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="40"
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=git1hub2&show_icons=true&locale=en" alt="git1hub2" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=git1hub2&" alt="git1hub2" /></p>
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=git1hub2&show_icons=true&locale=en" alt="git1hub2" 
+/></p><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=git1hub2&" alt="git1hub2" 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Git1Hub2&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
