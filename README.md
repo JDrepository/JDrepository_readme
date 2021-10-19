@@ -4,15 +4,24 @@
 <h3 align="center">Estou sempre a procura de novos conhecimentos e desafios na área de programação.</h3>
 </head>
 
+<img>
+  <img>
+    <img>
+
+<div class="rocket">
+  <div class="rocket-body">
 <div class="wrapper">
-    <div class="item">-</div>
-    <div class="item">-</div>
+    <div class="item">#</div>
+    <div class="item">#</div>
 </div>
 
 
 
 </a> </p><h3 align="center">👉 Language and Tools ✔</h3>
-
+<div class="wrapper">
+    <div class="item">#</div>
+    <div class="item">#</div>
+</div>
 <body>
   <div class="rocket">
     <div class="rocket-body">
@@ -41,20 +50,10 @@
         <li></a><a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"</li>
       <li></li>
         <li></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="40"</li>
-      <li></li>
+      <li><p>&nbsp;<img align="center" src="https://github-profile-trophy.vercel.app/?username=Git1Hub2&no-bg=true" alt="git1hub2"</li>
+        <li></p><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=git1hub2&" alt="git1hub2"</li>
         <li><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=git1hub2&show_icons=true&locale=en" alt="git1hub2"</li>
-        <li></p><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=git1hub2&" alt="git1hub2" </li>
-      
- 
-
+       
   </ul>
   </div>
 </body>
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Git1Hub2&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-
-
-
