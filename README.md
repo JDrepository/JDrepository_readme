@@ -3,7 +3,7 @@
 <h4 align="center">Passo muitas horas explorando os interesses e as atividades das pessoas no mundo onde vivemos.
 <h4 align="center">Estou sempre a procura de novos conhecimentos e desafios na área de programação.
 
-<h1>
+<h2>
   <h2>O que estou estudando:</h2>
    
    <li></a><a href="https://html.spec.whatwg.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/html5/html5-original-wordmark.svg" alt="aws" width="80" height="40"</li>
