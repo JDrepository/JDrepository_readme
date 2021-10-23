@@ -15,13 +15,13 @@
    
    <h1>
      <p><h2> Desafios:</h2></p>
-       <p><h3>JavaScript frameworks: AngularJS, Ember and ReactJS
-         <h3>JavaScript library: jQuery
-           <h3>Version control system
-             <h3>Cross-browser
-              <h3>Device testing (responsive design techniques to change site layout & design)
-                <h3>Web performance optimization (WPO)
-                  <h3>Search engine optimization (SEO)</h3>
+       <p><h4>JavaScript frameworks: AngularJS, Ember and ReactJS
+         <h4>JavaScript library: jQuery
+           <h4>Version control system
+             <h4>Cross-browser
+              <h4>Device testing (responsive design techniques to change site layout & design)
+                <h4>Web performance optimization (WPO)
+                  <h4>Search engine optimization (SEO)
   <h1>
   <h1>    
     <li></a><a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="80" height="40"</li>
