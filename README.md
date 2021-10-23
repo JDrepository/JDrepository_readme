@@ -1,7 +1,7 @@
 <h1 align="center"><strong>**Hi World 👋, eu sou o JD**<strong></h1>
-<h4 align="center">Apaixonado por tecnologia e ciência da computação.</h4>
-<h4 align="center">Passo muitas horas explorando os interesses e as atividades das pessoas no mundo onde vivemos.</h4>
-<h4 align="center">Estou sempre a procura de novos conhecimentos e desafios na área de programação.</h4>
+<h4 align="center">Apaixonado por tecnologia e ciência da computação.
+<h4 align="center">Passo muitas horas explorando os interesses e as atividades das pessoas no mundo onde vivemos.
+<h4 align="center">Estou sempre a procura de novos conhecimentos e desafios na área de programação.
 
 <h1>
   <h2>O que estou estudando:</h2>
