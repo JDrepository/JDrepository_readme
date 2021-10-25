@@ -30,12 +30,11 @@
   
   <li></a><a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"</li>
   <h1>
+  <li></a><a href="https://github-readme-stats.vercel.app" target="_blank"> <img src="https://github-readme-stats.vercel.app/api?username=git1hub2&show_icons=true&locale=en" alt="gcp" width="300" height="120"</li>
+  <li></a><a href="https://github-readme-streak-stats.herokuapp.com" target="_blank"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=git1hub2&" alt="gcp" width="300" height="120"</li>
   
-  
-[![Troper](https://github-readme-stats.vercel.app/api?username=git1hub2&show_icons=true&locale=en)](https://github-readme-stats.vercel.app)
-        
-[![Troper](https://github-readme-streak-stats.herokuapp.com/?user=git1hub2&)](https://github-readme-streak-stats.herokuapp.com)      
 
+      
 [![trophy](https://github-profile-trophy.vercel.app/?username=Git1Hub2&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
