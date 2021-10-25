@@ -4,8 +4,8 @@
 <p>Estou sempre a procura de novos conhecimentos e desafios na área de programação.</p></i></h4>
 
 <h3>
-     <p><h2><i>Interesses hoje:</i></h2></p>
-  </h3>
+     <p><i>Interesses hoje:</i></h3></p>
+  
   
   <ul>
    
@@ -19,6 +19,7 @@
 
 <h3>
  <div><i> Desafios:</b></h3></p>
+ 
  <ul>
        <li><h4><i>JavaScript frameworks: AngularJS, Ember and ReactJS
           <li>JavaScript library: jQuery
@@ -39,8 +40,8 @@
   <li></a><a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="35" height="40"></li>
   
   <h3>
-  <div><h2><i> Estatisticas:</b></h2></p>
-</h3>
+  <div><i> Estatisticas:</b></h3></p>
+
   
   
   <li></a><a href="https://github-readme-stats.vercel.app" target="_blank"> <img src="https://github-readme-stats.vercel.app/api?username=git1hub2&show_icons=true&locale=en" alt="git" width="300" height="120"></li>
