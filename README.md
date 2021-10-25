@@ -18,7 +18,7 @@
    </ul>
 
 <h3>
- <div><h2><i> Desafios:</b></h2></p>
+ <div><i> Desafios:</b></h3></p>
  <ul>
        <li><h4><i>JavaScript frameworks: AngularJS, Ember and ReactJS
           <li>JavaScript library: jQuery
