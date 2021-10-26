@@ -1,13 +1,12 @@
-<h1 align="center"><b>**Hi 👋, eu sou o JD**</b></h1>
-<h4 align="center"><p><i>Apaixonado por tecnologia e ciência da computação.</p>
-<p> Passo muitas horas explorando os interesses e as atividades das pessoas no mundo onde vivemos.</p>
-<p>Estou sempre a procura de novos conhecimentos e desafios na área de programação.</p></i></h4>
+<h1 align="center"><b>**Hi! 👋, eu sou JD**</h1>
+  <h4 align="center"><p><i>Apaixonado por tecnologia e ciência da computação.
+  <p> Passo muitas horas explorando os interesses e as atividades das pessoas no mundo onde vivemos.
+  <p>Estou sempre a procura de novos conhecimentos e desafios na área de programação.</p></h4>
 
-<h3>
-     <p><i>Interesses hoje:</i></h3></p>
+</br>
+</br>  
   
-  
-  <ul>
+<ul>
    
    <li></a><a href="https://html.spec.whatwg.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/html5/html5-original-wordmark.svg" alt="html5" width="80" height="40"></li>
    
@@ -15,12 +14,13 @@
    
    <li></a><a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Introduction" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/javascript/javascript-original.svg" alt="js" width="80" height="40"></li> 
    
-   </ul>
+</ul>
 
-<h3>
- <div><i> Desafios:</b></h3></p>
+</br>
+
+<h3><b>Desafios:</b></h3>
  
- <ul>
+<ul>
        <li><h4><i>JavaScript frameworks: AngularJS, Ember and ReactJS
           <li>JavaScript library: jQuery
            <li>Version control system
@@ -29,16 +29,16 @@
               <li>Web performance optimization (WPO)
                 <li>Search engine optimization (SEO)
         </i></h4>
-   </ul>
+</ul>
   </div>
- </h3>
+  <ul>
 
   <li></a><a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="80" height="40"></li>
   
   <li></a><a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/docker/docker-original-wordmark.svg" alt="docker" width="60" height="40"></li>
   
   <li></a><a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="35" height="40"></li>
-  
+  </ul>
   <h3>
   <div><i> Estatisticas:</b></h3></p>
 
