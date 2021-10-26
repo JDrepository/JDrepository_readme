@@ -1,4 +1,4 @@
-<h1 align="center"><b>**Hi! 👋, eu sou JD**</h1>
+<h1 align="center"><b>**Hi! 👋, I'm JD**</h1>
   <h4 align="center"><p><i>Apaixonado por tecnologia e ciência da computação.
   <p> Passo muitas horas explorando os interesses e as atividades das pessoas no mundo onde vivemos.
   <p>Estou sempre a procura de novos conhecimentos e desafios na área de programação.</p></h4>
@@ -18,7 +18,7 @@
 
 </br>
 
-<h3><b>Desafios:</b></h3>
+<h3><b>Student:</b></h3>
  
 <ul>
        <li><h4><i>JavaScript frameworks: AngularJS, Ember and ReactJS
