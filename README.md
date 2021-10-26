@@ -18,7 +18,7 @@
 
 </br>
 
-<h3><b>Student:</b></h3>
+<h3><b>Studying:</b></h3>
  
 <ul>
        <li><h4><i>JavaScript frameworks: AngularJS, Ember and ReactJS
@@ -39,9 +39,7 @@
   
   <li></a><a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="35" height="40"></li>
   </ul>
-  <h3>
-  <div><i> Estatisticas:</b></h3></p>
-
+  
   
   
   <li></a><a href="https://github-readme-stats.vercel.app" target="_blank"> <img src="https://github-readme-stats.vercel.app/api?username=git1hub2&show_icons=true&locale=en" alt="git" width="300" height="120"></li>
