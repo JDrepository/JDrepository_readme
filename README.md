@@ -2,8 +2,7 @@
 <html>
    <head>
      <meta charset="utf-8">
-     <title>My presentation</title>
-   </head>
+    </head>
 <body>
   <h1 align="center"><b>**Hi! 👋, I'm JD**</h1>
   <h4 align="center"><p><i>Apaixonado por tecnologia e ciência da computação.
