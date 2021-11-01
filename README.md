@@ -30,7 +30,7 @@
 </ul>
 
 <ul align="center" href="https://github-readme-stats.vercel.app" target="_blank"> <img src="https://github-readme-stats.vercel.app/api?username=git1hub2&show_icons=true&locale=en" alt="git" width="300" height="120">
-</a><a href="https://git.io/streak-stats" target="_blank"> <img src="https://github-readme-streak-stats.herokuapp.com?user=git1hub2&theme=merko&hide_border=verdadeiro&date_format=M%20j%5B%2C%20Y%5D" alt="git" width="300" height="120">
+</a><a href="https://github-readme-streak-stats.herokuapp.com" target="_blank"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=git1hub2&" alt="git" width="300" height="120">
      </ul>
 <img src="https://komarev.com/ghpvc/?username=Git1Hub2" alt="Git1Hub2" />
 </hl>
