@@ -35,6 +35,5 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Git1Hub2&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)   
 
      <img src="https://komarev.com/ghpvc/?username=Git1Hub2" alt="Git1Hub2" />
-</hl>
      </body>
     </html>
