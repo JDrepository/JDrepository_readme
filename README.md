@@ -11,11 +11,7 @@
   Passo muitas horas explorando os interesses e as atividades das pessoas no mundo onde vivemos.
   Estou sempre a procura de novos conhecimentos e desafios na área de programação.</section></i></p></h3>
     
-<pre>  
-<ul align="center"><a href="https://user-images.githubusercontent.com/30186107/29488525-f55a69d0-84da-11e7-8a39-5476f663b5eb.png" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/html5/html5-original-wordmark.svg" alt="The html5 logo" width="80" height="80" border"5px" alt="icon html"></a><a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/css3/css3-original-wordmark.svg" alt="The css logo" width="80" height="80" border"5px" alt="icon CSS"></a><a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Introduction" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/javascript/javascript-original.svg" alt="The javascript logo" width="70" height="70" border"5px"</ul>
-   
-</pre>
-
+<p align="center"> <img src="https://user-images.githubusercontent.com/30186107/29488525-f55a69d0-84da-11e7-8a39-5476f663b5eb.png" alt="icons" width="200" height="100">
 
 </br>
 
