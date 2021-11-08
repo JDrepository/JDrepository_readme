@@ -27,7 +27,7 @@
               <li>Web performance optimization (WPO)
                 <li>Search engine optimization (SEO)
         </i></h4>
-</ol>
+</ol> <hr>
 
 <ul align="center" href="https://github-readme-stats.vercel.app" target="_blank"> <img src="https://github-readme-stats.vercel.app/api?username=git1hub2&show_icons=true&locale=en" alt="git" width="300" height="120">
 </a><a href="https://github-readme-streak-stats.herokuapp.com" target="_blank"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=git1hub2&" alt="git" width="300" height="120">
