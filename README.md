@@ -4,7 +4,9 @@
      <meta charset="utf-8">
     </head>
 <body>
-   <h1 align="center"><b>**Hi 👋 I'm JD**</h1>
+  <h1 align="center"><b>**Hi 👋 I'm JD**</h1>
+     <div class="section">
+            <h1><span>About Me</span></h1>
   <h4 align="center"><p><i><section>Apaixonado por tecnologia e ciência da computação.
   Passo muitas horas explorando os interesses e as atividades das pessoas no mundo onde vivemos.
   Estou sempre a procura de novos conhecimentos e desafios na área de programação.</section></i></p></h4>
