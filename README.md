@@ -17,7 +17,7 @@
 
 
 </br>
-<hr width="100px" />
+
 <h3><b>Studying:</b></h3>
  
 <ol>
