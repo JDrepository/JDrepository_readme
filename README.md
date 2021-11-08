@@ -7,9 +7,9 @@
   <h1 align="center"><b>**Hi 👋 I'm JD**</h1>
      <div class="section">
             <h4 align="center">About Me</h4>
-  <h4 align="center"><p><i><section>Apaixonado por tecnologia e ciência da computação.
+  <h3 align="center"><p><i><section>Apaixonado por tecnologia e ciência da computação.
   Passo muitas horas explorando os interesses e as atividades das pessoas no mundo onde vivemos.
-  Estou sempre a procura de novos conhecimentos e desafios na área de programação.</section></i></p></h4>
+  Estou sempre a procura de novos conhecimentos e desafios na área de programação.</section></i></p></h3>
     
 <pre>  
 <ul align="center"><a href="https://html.spec.whatwg.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/html5/html5-original-wordmark.svg" alt="The html5 logo" width="80" height="80"></a><a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/css3/css3-original-wordmark.svg" alt="The css logo" width="80" height="80"></a><a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Introduction" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/javascript/javascript-original.svg" alt="The javascript logo" width="70" height="70"> </ul>
