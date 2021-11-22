@@ -11,7 +11,7 @@
   Passo muitas horas explorando os interesses e as atividades das pessoas no mundo onde vivemos.
   Estou sempre a procura de novos conhecimentos e desafios na área de programação.</section></i></p></h3>
     
-<p align="center"> <img src="https://user-images.githubusercontent.com/30186107/29488525-f55a69d0-84da-11e7-8a39-5476f663b5eb.png" alt="icons" width="200" height="100" border="5px">
+<!-- <p align="center"> <img src="https://user-images.githubusercontent.com/30186107/29488525-f55a69d0-84da-11e7-8a39-5476f663b5eb.png" alt="icons" width="200" height="100" border="5px"> -->
 
 </br>
 
