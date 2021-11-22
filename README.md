@@ -18,13 +18,13 @@
 <h3><b>Studying:</b></h3>
  
 <ol>
-       <li><h4><i>JavaScript frameworks: AngularJS, Ember and ReactJS
-          <li>JavaScript library: jQuery
-           <li>Version control system
-            <li>Cross-browser
-             <li>Device testing (responsive design techniques to change site layout & design)
-              <li>Web performance optimization (WPO)
-                <li>Search engine optimization (SEO)
+       <li><h4><i>*************
+          <li>***************
+           <li>**************
+            <li>**************
+             <li>**************
+              <li>**************
+                <li>*************
         </i></h4>
 </ol> <hr>
 
