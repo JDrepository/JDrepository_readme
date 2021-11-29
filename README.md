@@ -7,9 +7,7 @@
   <h1 align="center"><b>**Hi 👋 I'm JD**</h1>
      <div class="section">
             <h4 align="center">About Me</h4>
-  <h3 align="center"><p><i><section>Apaixonado por tecnologia e ciência da computação.
-  Passo muitas horas explorando os interesses e as atividades das pessoas no mundo onde vivemos.
-  Estou sempre a procura de novos conhecimentos e desafios na área de programação.</section></i></p></h3>
+  <h3 align="center"><p><i><section>Passionate about technology and computer science. I spend many hours exploring the interests and activities of people in the world where we live. I am always looking for new knowledge and challenges in the area of programming.</section></i></p></h3>
     
 <!-- <p align="center"> <img src="https://user-images.githubusercontent.com/30186107/29488525-f55a69d0-84da-11e7-8a39-5476f663b5eb.png" alt="icons" width="200" height="100" border="5px"> -->
 
