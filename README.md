@@ -1,8 +1,6 @@
 # **Hi 👋 I'm JD**
 
-## About Me
-
-Passionate about technology and computer science. I spend many hours exploring the interests and activities of people in the world where we live. I am always looking for new knowledge and challenges in the area of programming.
+Sou apaixonado por tecnologia e ciência da computação. Passo muitas horas explorando os interesses e atividades das pessoas no mundo em que vivemos. Estou sempre em busca de novos conhecimentos e desafios na área de programação.
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=git1hub2&show_icons=true&locale=en)
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=git1hub2)
