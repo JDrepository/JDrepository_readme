@@ -1,27 +1,4 @@
-<html>
-<head>
-<style>
-body {
-  font-family: 'Arial', sans-serif;
-  line-height: 1.6;
-  color: #333;
-  max-width: 900px;
-  margin: 50px auto;
-  background-color: #f4f4f4;
-}
 
-.container {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-around;
-  align-items: center;
-  padding: 20px 0;
-}
-
-.badge {
-  margin-top: 20px;
-}
-</style>
 </head>
 
 <body>
