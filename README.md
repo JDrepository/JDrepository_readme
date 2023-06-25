@@ -5,6 +5,12 @@
 <h1>Hi 👋 I'm JD</h1>
 <p>Buscando novos conhecimentos e desafios na área de programação, análise de dados e engenharia de dados.</p>
 <div class="container">
+
+
+HTML and CSS
+Cloud Computing (AWS, Azure and GCP)
+Data Science and Data Engineering
+Databases (MySQL, PostgreSQL and Oracle DB)
   
 </div>
 <div class="badge">
