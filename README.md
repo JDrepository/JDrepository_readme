@@ -9,6 +9,9 @@
 </div>
 <div class="badge">
   <img src="https://komarev.com/ghpvc/?username=Git1Hub2" alt="Profile views">
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
+          
 </div>
 </body>
 </html>
