@@ -7,7 +7,6 @@ Buscando novos conhecimentos e desafios na área de programação, análise de d
 ## 
 <!-- Badges -->
 [![Python](https://img.shields.io/badge/Python-orange?style=flat&logo=python)](https://www.python.org/)
-
 [![HTML](https://img.shields.io/badge/HTML-blue?style=flat&logo=html5)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://img.shields.io/badge/CSS-blue?style=flat&logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![AWS](https://img.shields.io/badge/AWS-blue?style=flat&logo=amazon-aws)](https://aws.amazon.com/)
@@ -25,7 +24,7 @@ Buscando novos conhecimentos e desafios na área de programação, análise de d
 [![Windows](https://img.shields.io/badge/Windows-blue?style=flat)](https://microsoft.com/windows/)
 [![Open Source? Yes!](https://img.shields.io/badge/Open%20Source%20%3F-Yes!-blue?style=flat&icon=github)](https://itsfoss.com/)
 
-![](https://komarev.com/ghpvc/?username=Git1Hub2)
+
 
 
 
