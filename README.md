@@ -3,8 +3,6 @@
 ## 
 Buscando novos conhecimentos e desafios na área de programação, análise de dados e engenharia de dados.
 
-## 
-- Ciência de dados e engenharia de dados
 
 ## 
 <!-- Badges -->
