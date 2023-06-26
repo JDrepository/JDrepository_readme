@@ -10,7 +10,7 @@
 HTML and CSS / Cloud Computing (AWS, Azure and GCP) / Data Science and Data Engineering /
 Databases (MySQL, PostgreSQL and Oracle DB)
 
-   ![image](https://github.com/Git1Hub2/Git1Hub2/assets/30468619/597ae7ae-c56e-4e1c-96a4-4740099553e2) 
+   <!-- ![image](https://github.com/Git1Hub2/Git1Hub2/assets/30468619/597ae7ae-c56e-4e1c-96a4-4740099553e2) 
    ![image](https://github.com/Git1Hub2/Git1Hub2/assets/30468619/8db16feb-e273-4176-82bf-8e5fa6febe46)
    ![image](https://github.com/Git1Hub2/Git1Hub2/assets/30468619/369c4eb9-2914-4f49-937a-69f36348eb65)
    ![image](https://github.com/Git1Hub2/Git1Hub2/assets/30468619/a6a06505-9ff7-404b-854c-778b7f310cf1)
@@ -20,7 +20,15 @@ Databases (MySQL, PostgreSQL and Oracle DB)
    ![image](https://github.com/Git1Hub2/Git1Hub2/assets/30468619/4336bf6c-7e36-4828-a016-6e91b164bf68)
    ![image](https://github.com/Git1Hub2/Git1Hub2/assets/30468619/86fe8138-6aa7-43a6-9b7b-cb045c8104e5)
    ![image](https://github.com/Git1Hub2/Git1Hub2/assets/30468619/15d601e4-0844-4da7-b567-41ad17565d75)
-   ![image](https://github.com/Git1Hub2/Git1Hub2/assets/30468619/04cf894e-afe1-4da3-a649-a3243151cab3)
+   ![image](https://github.com/Git1Hub2/Git1Hub2/assets/30468619/04cf894e-afe1-4da3-a649-a3243151cab3) -->
+
+   <img alt="PyPI - Python Version" src="https://img.shields.io/pypi/pyversions/python?logo=python">
+   
+   [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Naereen/badges)
+
+   
+   [![Windows](https://svgshare.com/i/ZhY.svg)](https://svgshare.com/i/ZhY.svg)
+
 
 
 </div>
