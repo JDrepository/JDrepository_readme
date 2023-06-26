@@ -1,47 +1,36 @@
+# Olá 👋 Eu sou JD
 
-</head>
+## 
+Buscando novos conhecimentos e desafios na área de programação, análise de dados e engenharia de dados.
 
-<body>
-<h1>Hi 👋 I'm JD</h1>
-<p>Buscando novos conhecimentos e desafios na área de programação, análise de dados e engenharia de dados.</p>
-<div class="container">
+## 
+- Ciência de dados e engenharia de dados
 
+## 
+<!-- Badges -->
+[![Python](https://img.shields.io/badge/Python-orange?style=flat&logo=python)](https://www.python.org/)
 
-HTML and CSS / Cloud Computing (AWS, Azure and GCP) / Data Science and Data Engineering /
-Databases (MySQL, PostgreSQL and Oracle DB)
+[![HTML](https://img.shields.io/badge/HTML-blue?style=flat&logo=html5)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://img.shields.io/badge/CSS-blue?style=flat&logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
-   <!-- ![image](https://github.com/Git1Hub2/Git1Hub2/assets/30468619/597ae7ae-c56e-4e1c-96a4-4740099553e2) 
-   ![image](https://github.com/Git1Hub2/Git1Hub2/assets/30468619/8db16feb-e273-4176-82bf-8e5fa6febe46)
-   ![image](https://github.com/Git1Hub2/Git1Hub2/assets/30468619/369c4eb9-2914-4f49-937a-69f36348eb65)
-   ![image](https://github.com/Git1Hub2/Git1Hub2/assets/30468619/a6a06505-9ff7-404b-854c-778b7f310cf1)
-   ![image](https://github.com/Git1Hub2/Git1Hub2/assets/30468619/1114b01b-702e-446e-9468-371a1f8892a8)
-   ![image](https://github.com/Git1Hub2/Git1Hub2/assets/30468619/71baa8b9-4ca2-4e5f-8a62-3271fb1d32fa)
-   ![image](https://github.com/Git1Hub2/Git1Hub2/assets/30468619/329ca3da-ddd6-4953-a512-451b2a949e47)
-   ![image](https://github.com/Git1Hub2/Git1Hub2/assets/30468619/4336bf6c-7e36-4828-a016-6e91b164bf68)
-   ![image](https://github.com/Git1Hub2/Git1Hub2/assets/30468619/86fe8138-6aa7-43a6-9b7b-cb045c8104e5)
-   ![image](https://github.com/Git1Hub2/Git1Hub2/assets/30468619/15d601e4-0844-4da7-b567-41ad17565d75)
-   ![image](https://github.com/Git1Hub2/Git1Hub2/assets/30468619/04cf894e-afe1-4da3-a649-a3243151cab3) -->
+[![AWS](https://img.shields.io/badge/AWS-blue?style=flat&logo=amazon-aws)](https://aws.amazon.com/)
+[![GCP](https://img.shields.io/badge/GCP-blue?style=flat&logo=google-cloud)](https://cloud.google.com/)
+[![MySQL](https://img.shields.io/badge/MySQL-blue?style=flat&logo=mysql)](https://www.mysql.com/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=flat&logo=postgresql)](https://www.postgresql.org/)
+[![SQLite](https://img.shields.io/badge/SQLite-blue?style=flat&logo=sqlite)](https://www.sqlite.org/)
 
-   <img alt="PyPI - Python Version" src="https://img.shields.io/pypi/pyversions/python?logo=python">
-   
-   [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Naereen/badges)
+[![PyPi](https://img.shields.io/badge/PyPi-blue?style=flat)](https://https://pypi.org/)
+[![Docker](https://img.shields.io/badge/Docker-blue?style=flat)](https://docker.com/)
+[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=flat)](https://code.visualstudio.com/)
+[![Figma](https://img.shields.io/badge/Figma-blue?style=flat)](https://www.figma.com/)
 
-   
-   [![Windows](https://svgshare.com/i/ZhY.svg)](https://svgshare.com/i/ZhY.svg)
+[![Open In Collab](https://img.shields.io/badge/Open%20In%20Collab-blue?style=flat)](https://colab.research.google.com/github/Naereen/badges)
+[![Open In Jupyter](https://img.shields.io/badge/Open%20In%20Jupyter-blue?style=flat)](https://jupyter.org/try)
+[![Windows](https://img.shields.io/badge/Windows-blue?style=flat)](https://microsoft.com/windows/)
+[![Open Source? Yes!](https://img.shields.io/badge/Open%20Source%20%3F-Yes!-blue?style=flat&icon=github)](https://itsfoss.com/)
 
+![](https://komarev.com/ghpvc/?username=Git1Hub2)
 
-
-</div>
-<div class="badge">
-  <img src="https://komarev.com/ghpvc/?username=Git1Hub2" alt="Profile views">
-
-
-
-  
-          
-</div>
-</body>
-</html>
 
 
 
