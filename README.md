@@ -21,6 +21,7 @@ Buscando novos conhecimentos e desafios na área de programação, análise de d
 [![Figma](https://img.shields.io/badge/Figma-blue?style=flat)](https://www.figma.com/)
 [![Open In Collab](https://img.shields.io/badge/Open%20In%20Collab-blue?style=flat)](https://colab.research.google.com/github/Naereen/badges)
 [![Open In Jupyter](https://img.shields.io/badge/Open%20In%20Jupyter-blue?style=flat)](https://jupyter.org/try)
+[![Open in Deepnote](https://img.shields.io/badge/Open%20In%20Deepnote-blue?style=flat)](https://deepnote.com/)
 [![Windows](https://img.shields.io/badge/Windows-blue?style=flat)](https://microsoft.com/windows/)
 [![Open Source? Yes!](https://img.shields.io/badge/Open%20Source%20%3F-Yes!-blue?style=flat&icon=github)](https://itsfoss.com/)
 
